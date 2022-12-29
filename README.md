@@ -21,4 +21,7 @@
       </ul>
     </td>
   </tr>
+  <tr>
+    [![An image of @ezaz's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ezaz)](https://holopin.io/@ezaz)
+  </tr>
 </table>
