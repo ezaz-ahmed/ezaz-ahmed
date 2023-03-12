@@ -21,7 +21,4 @@
       </ul>
     </td>
   </tr>
-   <tr>
-      <img src="https://holopin.me/ezaz" />
-  </tr>
 </table>
