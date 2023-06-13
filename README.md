@@ -5,7 +5,7 @@
     </td>
     <td style="border: 0";>
       <p>
-        ☀️ By day, I'm a Full-Stack Developer at <a href="https://earthface.biz">Earthface<a/>.
+        ☀️ By day, I'm a Full-Stack Developer at <a target="_blank" href="https://www.codelinker.com/">Code Linker</a>.
       </p>
       <p>
         🌙 By night, I try to explore various JavaScript Framework.
