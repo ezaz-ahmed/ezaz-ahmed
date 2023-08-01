@@ -1,24 +1,54 @@
-<table border="0" cellspacing="0" cellpadding="0">
-  <tr>
-    <td style="border: 0";>
-      <img width="400" src="https://user-images.githubusercontent.com/35024367/211268819-39fcab63-e1c5-49b1-b47b-d6e07be8c49c.jpg" />
-    </td>
-    <td style="border: 0";>
-      <p>
-        ☀️ By day, I'm a Full-Stack Developer at <a target="_blank" href="https://www.codelinker.com/">Code Linker</a>.
-      </p>
-      <p>
-        🌙 By night, I try to explore various JavaScript Framework.
-      </p>
-      <h3>Other places you can find me</h3>
-      <ul>
-        <li>
-          🐦 <a href="https://twitter.com/n_ezaz">Follow me on Twitter</a>
-        </li>
-        <li>
-          📷 <a href="https://www.instagram.com/ezaz_20">Follow on Instagram</a>
-        </li>
-      </ul>
-    </td>
-  </tr>
-</table>
+
+[<img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=ezaz-ahmed&&show_icons=true&theme=tokyonight&count_private=true" alt="Ezaz Ahmed's Github Stats"/>](https://github.com/ezaz-ahmed)
+
+# 👋 Hi, Ezaz here!
+
+## Software Engineer 
+
+_**Unlocking the boundless potential of the web, one line of code at a time.! **_
+
+> Currently building [**Atlhas Tutor**](https://tutor.atlhas.com) & [**Ezaz's personal portfolio with blog**](https://ezaz.dev)
+
+I brew **Web Apps** with **_TypeScript, JavaScript, and Coffee_**. Working at [Code Linker](https://codelinker.com), a software company who unlocks digital brilliance, transforming your ideas into cutting-edge reality.! 
+I love making cool but performant webapps, making boring designs, contributing to open-source and continuously learning + building new stuff!
+
+[![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=222244&labelColor=000000&logo=linkedin&logoColor=f5f7fe)](https://www.linkedin.com/in/ezaz-ahmed-abdullah/)
+[![Discord](https://img.shields.io/badge/%20-Connect-black?color=222244&labelColor=000000&logo=discord&logoColor=f5f7fe)](https://discord.com/users/gambit9980)
+[![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=222244&labelColor=000000&logo=gmail&logoColor=f5f7fe)](mailto:ezaznahmed@gmail.com?subject=From%20GitHub&&body=Hi,%20there.%20Found%20you%20on%20GitHub!%20Let's%20talk%20about...)
+
+### Tech Stacks I've worked with
+
+_I'm working **full-stack**
+
+```yaml
+Actively working with:
+  Languages:
+  - TypeScript, JavaScript
+  Frontend:
+  - Svelte, React, Next, Astro
+  - React-Query, SWR
+  Styling/Component-library:
+  - Tailwind CSS, Styled Components, CSS3
+  - Skeleton, shadcn/ui, Headless-UI, CVA
+  Backend:
+  - NestJs, ExpressJs, Fastify
+  Database:
+  - Postgres, MongoDB
+  - Prisma, Drizzle-Orm, Mongoose
+  CI/CD: GitHub Actions
+Previously worked with:
+- Redux, Flutter, React Native
+Nothing in production:
+- Golang, Redis K/V store, BullMQ
+```
+
+### Things you might want to know
+
+- 🔭 <b>Working with:</b> Mentioned above **↑**
+- 🌱 <b>Getting better at:</b> Mentoring, Being a Product/Feature owner
+- 🤔 <b>Exploring:</b> Startup Ideas, Serverless, Functional Programming
+- ⚗️ <b>Experimenting on:</b> 3D animation, Reactivity
+- 💬 <b>Let's talk about:</b> DX, Anime, Startup ideas
+
+
+### Happy coding!
