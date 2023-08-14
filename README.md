@@ -1,7 +1,7 @@
 
 [<img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=ezaz-ahmed&&show_icons=true&theme=tokyonight&count_private=true" alt="Ezaz Ahmed's Github Stats"/>](https://github.com/ezaz-ahmed)
 
-# 👋 Hi, Ezaz here!
+# Hi, 👋 I'm [**Ezaz Ahmed**](https://ezaz.dev)
 
 ## Software Engineer 
 
