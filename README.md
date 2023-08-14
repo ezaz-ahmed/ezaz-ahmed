@@ -5,7 +5,7 @@
 
 ## Software Engineer 
 
-_**Unlocking the boundless potential of the web, one line of code at a time.! **_
+_**I create software for enjoyment and to contribute to making a positive impact on the world**_
 
 > Currently building [**Atlhas Tutor**](https://tutor.atlhas.com) & [**Ezaz's personal portfolio with blog**](https://ezaz.dev)
 
