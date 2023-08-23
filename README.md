@@ -5,7 +5,7 @@
 
 ## Software Engineer 
 
-_**I create software for enjoyment and to contribute to making a positive impact on the world**_
+_**I craft software for enjoyment and to make a positive impact on the world**_
 
 > Currently building [**Atlhas Tutor**](https://tutor.atlhas.com) & [**Ezaz's personal portfolio with blog**](https://ezaz.dev)
 
