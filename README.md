@@ -7,7 +7,7 @@
 
 _**I craft software for enjoyment and to make a positive impact on the world**_
 
-> Currently building [**Atlhas Tutor**](https://tutor.atlhas.com) & [**Ezaz's personal portfolio with blog**](https://ezaz.dev)
+> Currently building [**SIIN Shop**](https://siin.shop)
 
 I brew **Web Apps** with **_TypeScript, JavaScript, and Coffee_**. Working at [Code Linker](https://codelinker.com), a software company who unlocks digital brilliance, transforming your ideas into cutting-edge reality.! 
 I love making cool but performant webapps, making boring designs, contributing to open-source and continuously learning + building new stuff!
