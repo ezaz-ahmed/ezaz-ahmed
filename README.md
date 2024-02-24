@@ -17,7 +17,7 @@ I love making cool but performant webapps, making boring designs, contributing t
 <p align="left">
 <a href="https://www.linkedin.com/in/ezaz-ahmed-abdullah/" target="blank"><img align="center" src="https://img.shields.io/badge/Linkedin-0077b5.svg?style=for-the-badge&logo=Linkedin&logoColor=white" alt="Ezaz's Linkedin" /></a>
 <a href="https://discord.com/users/gambit9980" target="blank"><img align="center" src="https://img.shields.io/badge/Discord-424549.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Ezaz's discord"/></a>
-<a href="mailto:ezaznahmed@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/MAIL-f2a60c.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Ezaz's mail" /></a>
+<a href="mailto:contact@ezaz.dev" target="blank"><img align="center" src="https://img.shields.io/badge/MAIL-f2a60c.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Ezaz's mail" /></a>
 
 <p>
 
@@ -54,7 +54,7 @@ Nothing in production:
 - 🌱 <b>Getting better at:</b> Building Large System & Complex system
 - 🤔 <b>Exploring:</b> Startup Ideas, Serverless, DevOps
 - ⚗️ <b>Experimenting on:</b> 3D animation, Reactivity
-- 📫 <b>Reach me:</b> **ezaznahmed@gmail.com**
+- 📫 <b>Reach me:</b> **contact@ezaz.dev**
 - 📰 <b>My Portfolio & Blog:</b> **https://ezaz.dev**
 - 💬 <b>Let's talk about:</b> DX, Anime, Startup ideas
 
