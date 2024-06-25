@@ -53,7 +53,7 @@ Expanding My Skills:
 - 📰 <b>My Portfolio & Blog:</b> **[ezaz.dev](https://ezaz.dev)**
 - 💬 <b>Let's talk about:</b> Developer experience, anime, startup ideas.
 
-<table>
+<table border="0">
   <tr>
     <td align="center">
       <img src="https://github-readme-stats.vercel.app/api?username=ezaz-ahmed&&show_icons=true&theme=tokyonight&count_private=true" alt="Ezaz Ahmed's Github Stats" style="max-width: 400px;">
