@@ -1,14 +1,18 @@
 # Hi, 👋 I'm [**Ezaz Ahmed**](https://ezaz.dev)
 
+![](https://komarev.com/ghpvc/?username=ezaz-ahmed&color=blueviolet)
+
 ## Software Engineer
 
 _**I craft sleek frontends and robust backends for seamless web experiences.**_
 
-![](https://komarev.com/ghpvc/?username=ezaz-ahmed&color=blueviolet)
-
 > Currently engaged in solving LeetCode challenges and advancing my expertise in system design principles.
 
 Crafting impactful web apps with **_JavaScript, TypeScript, and Node.js_**: Passionate developer and open-source contributor.
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ezaz-ahmed&&show_icons=true&theme=tokyonight&count_private=true" alt="Ezaz Ahmed's Github Stats" style="max-width: 400px;">
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -52,9 +56,5 @@ Expanding My Skills:
 - 📫 <b>Reach me at:</b> **contact@ezaz.dev**
 - 📰 <b>My Portfolio & Blog:</b> **[ezaz.dev](https://ezaz.dev)**
 - 💬 <b>Let's talk about:</b> Developer experience, anime, startup ideas.
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ezaz-ahmed&&show_icons=true&theme=tokyonight&count_private=true" alt="Ezaz Ahmed's Github Stats" style="max-width: 400px;">
-</p>
 
 ### Happy coding!
