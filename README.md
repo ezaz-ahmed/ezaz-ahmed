@@ -1,17 +1,14 @@
-[<img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=ezaz-ahmed&&show_icons=true&theme=tokyonight&count_private=true" alt="Ezaz Ahmed's Github Stats"/>](https://github.com/ezaz-ahmed)
-
 # Hi, 👋 I'm [**Ezaz Ahmed**](https://ezaz.dev)
 
 ## Software Engineer
 
-_**I craft software for enjoyment and to make a positive impact on the world**_
+_**I craft sleek frontends and robust backends for seamless web experiences.**_
 
 ![](https://komarev.com/ghpvc/?username=ezaz-ahmed&color=blueviolet)
 
-> Presently engaged in solving LeetCode challenges and advancing expertise in system design principles.
+> Currently engaged in solving LeetCode challenges and advancing my expertise in system design principles.
 
-I brew **Web Apps** with **_TypeScript, JavaScript, and Coffee_**.
-I love making cool but performant webapps, making boring designs, contributing to open-source and continuously learning + building new stuff!
+Crafting impactful web apps with **_JavaScript, TypeScript, and Node.js_**: Passionate developer and open-source contributor.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -23,39 +20,39 @@ I love making cool but performant webapps, making boring designs, contributing t
 
 ### Tech Stacks I've worked with
 
-🚀 \_Excited to soar as a **full-stack maestro**
-
 ```yaml
 Actively working with:
   Languages:
     - TypeScript, JavaScript
   Frontend:
-    - Svelte, React, Next, Astro
-    - Tanstack-Query, SWR
-  Styling/Component-library:
+    - Svelte, React, Next.js, Astro
+    - TanStack Query, SWR
+  Styling/Component Libraries:
     - Tailwind CSS, Styled Components, Material UI, CSS3
-    - Skeleton, shadcn/ui, Headless-UI
+    - Skeleton, ShadCN/UI, Headless UI
   Backend:
-    - NestJs, ExpressJs, Fastify, Hono
+    - NestJS, ExpressJS, Fastify, Hono
   Database:
-    - Postgres, MySql, MongoDB
-    - Prisma, Drizzle-Orm, Mongoose
-  CI/CD: GitHub Actions
+    - PostgreSQL, MySQL, MongoDB
+    - Prisma, Drizzle ORM, Mongoose
+  CI/CD:
+    - GitHub Actions
 Previously worked with:
   - Redux, Flutter, React Native
-Nothing in production:
-  - Golang, Redis K/V store, BullMQ
+Expanding My Skills:
+  - Go, Redis K/V store, BullMQ
 ```
 
 ### Things you might want to know
 
-<!-- - 🔭 <b>Working with:</b> Career break for professional development **↑** -->
+- 🔭 <b>Currently:</b> On a career break and eager to contribute my skills.
+- 🌱 <b>Improving my skills in:</b> Building large and complex systems.
+- 🤔 <b>Exploring:</b> Startup ideas, serverless architecture, DevOps.
+- ⚗️ <b>Experimenting with:</b> Application performance, reactivity.
+- 📫 <b>Reach me at:</b> **contact@ezaz.dev**
+- 📰 <b>My Portfolio & Blog:</b> **[ezaz.dev](https://ezaz.dev)**
+- 💬 <b>Let's talk about:</b> Developer experience, anime, startup ideas.
 
-- 🌱 <b>Getting better at:</b> Building Large System & Complex system
-- 🤔 <b>Exploring:</b> Startup Ideas, Serverless, DevOps
-- ⚗️ <b>Experimenting on:</b> 3D animation, Reactivity
-- 📫 <b>Reach me:</b> **contact@ezaz.dev**
-- 📰 <b>My Portfolio & Blog:</b> **https://ezaz.dev**
-- 💬 <b>Let's talk about:</b> DX, Anime, Startup ideas
+<img src="https://github-readme-stats.vercel.app/api?username=ezaz-ahmed&&show_icons=true&theme=tokyonight&count_private=true" alt="Ezaz Ahmed's Github Stats" style="width: 100%; max-width: 400px; margin-top: 20px">
 
 ### Happy coding!
