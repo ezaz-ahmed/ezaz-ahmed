@@ -10,17 +10,16 @@ _**I craft sleek frontends and robust backends for seamless web experiences.**_
 
 Crafting impactful web apps with **_JavaScript, TypeScript, and Node.js_**: Passionate developer and open-source contributor.
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ezaz-ahmed&&show_icons=true&theme=tokyonight&count_private=true" alt="Ezaz Ahmed's Github Stats" style="max-width: 400px;">
-</p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/ezaz7/" target="blank"><img align="center" src="https://img.shields.io/badge/Linkedin-0077b5.svg?style=for-the-badge&logo=Linkedin&logoColor=white" alt="Ezaz's Linkedin" /></a>
 <a href="https://discord.com/users/gambit9980" target="blank"><img align="center" src="https://img.shields.io/badge/Discord-424549.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Ezaz's discord"/></a>
 <a href="mailto:contact@ezaz.dev" target="blank"><img align="center" src="https://img.shields.io/badge/MAIL-f2a60c.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Ezaz's mail" /></a>
-
 <p>
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=ezaz-ahmed&&show_icons=true&theme=tokyonight&count_private=true" alt="Ezaz Ahmed's Github Stats" style="max-width: 400px;">
+</p>
 
 ### Tech Stacks I've worked with
 
