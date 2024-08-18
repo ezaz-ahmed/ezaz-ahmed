@@ -6,9 +6,7 @@
 
 _**I craft sleek frontends and robust backends for seamless web experiences.**_
 
-> Currently engaged in solving LeetCode challenges and advancing my expertise in system design principles.
-
-Crafting impactful web apps with **_JavaScript, TypeScript, and Node.js_**: Passionate developer and open-source contributor.
+> Currently focused on solving complex problems and deepening my expertise in DevOps and system design principles.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -26,7 +24,7 @@ Crafting impactful web apps with **_JavaScript, TypeScript, and Node.js_**: Pass
 ```yaml
 Actively working with:
   Languages:
-    - TypeScript, JavaScript
+    - TypeScript, JavaScript, Go
   Frontend:
     - Svelte, React, Next.js, Astro
     - TanStack Query, SWR
@@ -48,12 +46,12 @@ Expanding My Skills:
 
 ### Things you might want to know
 
-- 🔭 <b>Currently:</b> On a career break and eager to contribute my skills.
-- 🌱 <b>Improving my skills in:</b> Building large and complex systems.
-- 🤔 <b>Exploring:</b> Startup ideas, serverless architecture, DevOps.
-- ⚗️ <b>Experimenting with:</b> Application performance, reactivity.
-- 📫 <b>Reach me at:</b> **contact@ezaz.dev**
-- 📰 <b>My Portfolio & Blog:</b> **[ezaz.dev](https://ezaz.dev)**
-- 💬 <b>Let's talk about:</b> Developer experience, anime, startup ideas.
+- 🔭 **Currently:** On a career break and eager to contribute my skills.
+- 🌱 **Improving my skills in:** Building large and complex systems.
+- 🤔 **Exploring:** Startup ideas, serverless architecture, DevOps.
+- ⚗️ **Experimenting with:** Application performance, reactivity.
+- 📫 **Reach me at:** [contact@ezaz.dev](mailto:contact@ezaz.dev)
+- 📰 **My Portfolio & Blog:** [ezaz.dev](https://ezaz.dev)
+- 💬 **Let's talk about:** Developer experience, anime, startup ideas.
 
 ### Happy coding!
