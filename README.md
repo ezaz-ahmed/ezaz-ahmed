@@ -11,7 +11,6 @@ _**I craft sleek frontends and robust backends for seamless web experiences.**_
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/ezaz7/" target="blank"><img align="center" src="https://img.shields.io/badge/Linkedin-0077b5.svg?style=for-the-badge&logo=Linkedin&logoColor=white" alt="Ezaz's Linkedin" /></a>
-<a href="https://discord.com/users/gambit9980" target="blank"><img align="center" src="https://img.shields.io/badge/Discord-424549.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Ezaz's discord"/></a>
 <a href="mailto:contact@ezaz.dev" target="blank"><img align="center" src="https://img.shields.io/badge/MAIL-f2a60c.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Ezaz's mail" /></a>
 <p>
 
